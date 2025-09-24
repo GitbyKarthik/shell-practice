@@ -2,7 +2,7 @@
 
 #DATE=$(date)
 
-START_TIME=$(deate +%s)
+START_TIME=$(date +%s)
 
 sleep 10 
 
